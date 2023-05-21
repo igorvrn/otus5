@@ -11,4 +11,12 @@
 ## 1. Проведем базовую настройку сети по заданию
 ### ![](https://github.com/igorvrn/otus5/blob/main/002.png)
 ### Но сетевые устройства в CPT знают не все команды, в связи с чем собираем данную конфигурацию в EVE-NG.
-### 
+### ![](https://github.com/igorvrn/otus5/blob/main/019.png)
+## Проведем первоначальную настройку оборудования в соответствии с заданием и проверим сетевую связанность с помощью команды ping:
+### ![](https://github.com/igorvrn/otus5/blob/main/003.png)
+### ![](https://github.com/igorvrn/otus5/blob/main/004.png)
+## Создадим и настроим зоны безопасности на R3 в соответствии с заданием: 
+### ![](https://github.com/igorvrn/otus5/blob/main/005.png)
+### ![](https://github.com/igorvrn/otus5/blob/main/006.png)
+### ![](https://github.com/igorvrn/otus5/blob/main/007.png)
+### ![](https://github.com/igorvrn/otus5/blob/main/008.png)
